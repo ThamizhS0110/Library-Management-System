@@ -38,11 +38,6 @@ UML DIAGRAMS
 ![377740968-5a9ec5fd-2ef3-4c52-abfe-ba650f49e039](https://github.com/user-attachments/assets/43052ec9-b070-4fb3-8983-0be80d485f49)
 
 
-## RESULT
-The UML Diagrams for Library management system have been successfully created and implemented using StarUML.
-
-
-
 
 
 # RESULT
